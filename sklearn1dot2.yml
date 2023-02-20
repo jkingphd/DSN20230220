@@ -9,4 +9,5 @@ dependencies:
   - numpy
   - tqdm
   - pip
+  - pip:
     - memory_profiler
