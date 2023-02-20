@@ -4,6 +4,9 @@ dependencies:
   - scikit-learn=1.2
   - scikit-image
   - matplotlib
+  - jupyter
   - pandas
   - numpy
   - tqdm
+  - pip
+    - memory_profiler
